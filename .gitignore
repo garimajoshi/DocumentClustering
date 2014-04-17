@@ -6,3 +6,4 @@ StopWordsHandler.o
 Centroid.o
 DocumentClustering.o
 VectorSpaceModel.o
+main.o
