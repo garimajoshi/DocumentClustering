@@ -3,3 +3,5 @@ DocumentCollection.o
 DocumentVector.o
 SimilarityMatrics.o
 StopWordsHandler.o
+Centroid.o
+DocumentClustering.o
