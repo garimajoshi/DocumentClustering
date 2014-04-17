@@ -5,3 +5,4 @@ SimilarityMatrics.o
 StopWordsHandler.o
 Centroid.o
 DocumentClustering.o
+VectorSpaceModel.o
